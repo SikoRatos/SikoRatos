@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SikoRatos
-- 👀 I’m interested to Machine Learning, AI, Android apps and anything it has code ins
+- 👀 I’m interested to Machine Learning, AI, Android apps and anything it has code in
 - 🌱 I’m currently learning how to design circuits
 
 <!---
